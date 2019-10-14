@@ -1,0 +1,3 @@
+instalooter
+pytesseract
+django
